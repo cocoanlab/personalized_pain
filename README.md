@@ -1,4 +1,4 @@
-# Personalized Pain biomarker Based on Densely Sampled Data
+# Personalized Pain Biomarker Based on Densely Sampled Data
 
 This repository contains basic data and example codes for the following paper.
 
